@@ -1,0 +1,21 @@
+Disney Bank
+
+Diana Licon
+DOB: 19-Aug-10
+Phone Num: (915) 747-5020
+ID: 57
+
+Accounts
+	checking-1056 starting balance: $1140.14
+	savings-2056 starting balance: $1140.14
+	credit-3055 starting balance: $1140.14
+Statement Date: 23-03-2021
+
+			Transactions
+deposited $5000.0 into 1056
+payed $1000.0 from 1056 to Daniel Mejia
+
+ending balances
+	checking-1056 ending balance: $5180.06
+	savings-2056 ending balance: $1140.14
+	credit-3055 ending balance: $1140.14

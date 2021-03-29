@@ -1,0 +1,17 @@
+Disney Bank
+
+Chula Licon
+DOB: 02/04/2009
+Phone Num: Dr.
+ID: 108
+
+Accounts
+	checking-1107 starting balance: $0.0
+	savings-2107 starting balance: $0.0
+Statement Date: 14-03-2021
+
+			Transactions
+
+ending balances
+	checking-1107 ending balance: $108.0
+	savings-2107 ending balance: $0.0

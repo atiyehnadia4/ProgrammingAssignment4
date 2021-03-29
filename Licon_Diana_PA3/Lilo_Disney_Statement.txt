@@ -1,0 +1,21 @@
+Disney Bank
+
+Lilo Disney
+DOB: 29-May-01
+Phone Num: (714) 781-4636
+ID: 35
+
+Accounts
+	checking-1034 starting balance: $965.68
+	savings-2034 starting balance: $965.68
+	credit-3034 starting balance: $965.68
+Statement Date: 14-03-2021
+
+			Transactions
+Withdrew $59.0 from 2034
+Withdrew $59.0 from 2034
+
+ending balances
+	checking-1034 ending balance: $965.68
+	savings-2034 ending balance: $847.68
+	credit-3034 ending balance: $965.68
