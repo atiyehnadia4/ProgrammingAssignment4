@@ -1,0 +1,34 @@
+BANK OF OOP
+1801 Hawthore St.
+El Paso, TX, 79902
+=========================================================
+Diana Licon                     Mon 03-15-2021
+"500 W. University Ave El Paso TX 79968"
+(915) 747-5020
+19-Aug-10
+"500 W. University Ave El Paso TX 79968"
+Identification Number: 57
+=========================================================
+CHECKINGS                                  Account #: 1056
+Starting Balance: $1140.14
+Deposit of $300.00 into account number 1056. Current Balance is $1,440.14
+Withdrawal of $20.00 from account number 1056. Current Balance is $1,420.14
+Withdrawal of $24.00 from account number 1056. Current Balance is $1,396.14
+Transfer of $24.00 into account number 2056. Current Balance for Account 1 is $1,396.14, Account 2 $1,354.08
+
+Ending Balance: $1396.14
+=========================================================
+SAVINGS                                  Account #: 2056
+Starting Balance: $1106.08
+Deposit of $200.00 into account number 2056. Current Balance is $1,306.08
+Deposit of $24.00 into account number 2056. Current Balance is $1,330.08
+Deposit of $24.00 into account number 2056. Current Balance is $1,354.08
+
+Ending Balance: $1354.08
+=========================================================
+CREDIT                                 Account #: 3056
+Starting Balance: $-759.99
+Deposit of $10.00 into account number 3056. Current Balance is $-749.99
+Withdrawal of $20.00 into account number 3056. Current Balance is $-769.99
+
+Ending Balance: $-769.99

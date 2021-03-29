@@ -1,0 +1,44 @@
+BANK OF OOP
+1801 Hawthore St.
+El Paso, TX, 79902
+=========================================================
+Simba King                     Mon 03-15-2021
+"1313 Disneyland Dr Anaheim CA 92802"
+(714) 781-4636
+6-Jun-34
+"1313 Disneyland Dr Anaheim CA 92802"
+Identification Number: 24
+=========================================================
+CHECKINGS                                  Account #: 1023
+Starting Balance: $613.55
+Withdrawal of $11.31 from account number 1023. Current Balance is $602.24
+Success: Payment of $11.31 into account number 1047. User Current Balance is $602.24
+Withdrawal of $78.00 from account number 1023. Current Balance is $524.24
+Deposit of $100.00 into account number 1023. Current Balance is $624.24
+Withdrawal of $100.00 from account number 1023. Current Balance is $524.24
+Withdrawal of $20.00 from account number 1023. Current Balance is $504.24
+Transfer of $20.00 into account number 2023. Current Balance for Account 1 is $504.24, Account 2 $2,802.29
+Withdrawal of $20.00 from account number 1023. Current Balance is $484.24
+Success: Payment of $20.00 into account number 1000. User Current Balance is $484.24
+
+Ending Balance: $484.24
+=========================================================
+SAVINGS                                  Account #: 2023
+Starting Balance: $2662.29
+Deposit of $200.00 into account number 2023. Current Balance is $2,862.29
+Withdrawal of $100.00 from account number 2023. Current Balance is $2,762.29
+Deposit of $20.00 into account number 2023. Current Balance is $2,782.29
+Deposit of $20.00 into account number 2023. Current Balance is $2,802.29
+Withdrawal of $20.00 from account number 2023. Current Balance is $2,782.29
+Transfer of $20.00 into account number 3023. Current Balance for Account 1 is $2,782.29, Account 2 $-611.66
+
+Ending Balance: $2782.29
+=========================================================
+CREDIT                                 Account #: 3023
+Starting Balance: $-551.66
+Deposit of $100.00 into account number 3023. Current Balance is $-451.66
+Withdrawal of $200.00 into account number 3023. Current Balance is $-651.66
+Deposit of $20.00 into account number 3023. Current Balance is $-631.66
+Deposit of $20.00 into account number 3023. Current Balance is $-611.66
+
+Ending Balance: $-611.66
