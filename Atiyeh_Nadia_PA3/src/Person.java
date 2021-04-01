@@ -32,7 +32,6 @@ abstract class Person {
      * The phone number assigned to a person
      */
     private String phoneNumber;
-
     /**
      * Default Constructor of the Person Class
      */

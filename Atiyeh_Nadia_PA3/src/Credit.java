@@ -1,4 +1,3 @@
-import javax.swing.*;
 
 /**
  * Credit Class is an child class that inherits information from the Account Class. With the information from the Account
