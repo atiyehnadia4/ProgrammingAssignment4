@@ -189,7 +189,7 @@ public class RunBank {
                                 user.setChecking(checking);
                                 System.out.println("new checking account created successfully");
                             } else if (action == 7 && accounts[2] == null) {
-                                Credit credit = new Credit(0);
+                                Credit credit = new Credit;
                                 user.setCredit(credit);
                                 System.out.println(user.getCredit().getAccountNumber());
                                 System.out.println("new checking account created successfully");

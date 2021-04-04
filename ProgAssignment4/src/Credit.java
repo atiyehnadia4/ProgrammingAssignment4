@@ -23,7 +23,7 @@ public class Credit extends Account{
     public Credit(int accountTypeIn, double currentBalanceIn, int accountNumberIn, int creditMax) {
         super(accountTypeIn, currentBalanceIn, accountNumberIn);
         this.creditMax = creditMax;
-        this.nextCreditAccountNum=accountNumber+1;
+        this.nextCreditAccountNum= accountNumberIn + 1;
     }
 
     //getters
