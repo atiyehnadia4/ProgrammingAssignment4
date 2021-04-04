@@ -54,8 +54,6 @@ public class Credit extends Account{
         this.creditMax = creditMaxIn;
     }
 
-
-
     /**
      * Overridden Method of the Account Class deposit method that checks that the deposit does not bring the Credit accounts
      * to anything equal to or above zero
